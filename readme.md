@@ -59,7 +59,8 @@ python app.py
 
 - [1] - Criar um usuário: Registra um novo usuário no sistema.
 - [2] - Fazer login: Realiza o login com um usuário existente.
-Funções no Menu de Login: Após o login, o usuário pode:
+
+- Funções no Menu de Login: Após o login, o usuário pode:
 
 - [1] Atualizar conta: Altera o nome, e-mail ou senha do usuário.
 - [2] Excluir conta: Remove o usuário do banco de dados.

@@ -40,8 +40,9 @@ Este projeto foi desenvolvido como um exercício de CRUD com SQLAlchemy e possui
     ```
 
 ## Instale as dependências:
-
+```bash
 - pip install sqlalchemy
+```
 
 ## Configuração do Banco de Dados: 
 
@@ -50,17 +51,20 @@ Este projeto foi desenvolvido como um exercício de CRUD com SQLAlchemy e possui
 ## Uso
 
 Execute o programa
-- python app.py
+```bash
+python app.py
+```
 
 ## Menu Principal: No menu principal, você pode escolher:
 
-[1] - Criar um usuário: Registra um novo usuário no sistema.
-[2] - Fazer login: Realiza o login com um usuário existente.
+- [1] - Criar um usuário: Registra um novo usuário no sistema.
+- [2] - Fazer login: Realiza o login com um usuário existente.
 Funções no Menu de Login: Após o login, o usuário pode:
 
-[1] Atualizar conta: Altera o nome, e-mail ou senha do usuário.
-[2] Excluir conta: Remove o usuário do banco de dados.
-[3] Sair: Finaliza a sessão de login.
+- [1] Atualizar conta: Altera o nome, e-mail ou senha do usuário.
+- [2] Excluir conta: Remove o usuário do banco de dados.
+- [3] Sair: Finaliza a sessão de login.
+
 
 ## Estrutura do Projeto
 

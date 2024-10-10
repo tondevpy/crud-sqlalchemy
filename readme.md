@@ -52,7 +52,7 @@ Este projeto foi desenvolvido como um exercício de CRUD com SQLAlchemy e possui
 
 Execute o programa
 ```bash
-python app.py
+python main.py
 ```
 
 ## Menu Principal: No menu principal, você pode escolher:
@@ -70,7 +70,7 @@ python app.py
 ## Estrutura do Projeto
 
 sistema-autenticacao/
-├── app.py           # Arquivo principal com a interface do usuário e menu de opções
+├── main.py           # Arquivo principal com a interface do usuário e menu de opções
 ├── db.py            # Configuração do banco de dados, modelo de dados e repositório de funções CRUD
 ├── dados.db         # Arquivo de banco de dados SQLite (gerado automaticamente)
 └── README.md        # Documentação do projeto
@@ -78,7 +78,7 @@ sistema-autenticacao/
 ## Arquivos Principais
 
 - db.py: Define a configuração do banco de dados e o modelo Usuario no SQLAlchemy, além das funções CRUD no repositório.
-- app.py: Implementa a interface de usuário e o menu interativo, permitindo cadastro, login e gerenciamento de contas.
+- main.py: Implementa a interface de usuário e o menu interativo, permitindo cadastro, login e gerenciamento de contas.
 
 ## Tecnologias Utilizadas
 

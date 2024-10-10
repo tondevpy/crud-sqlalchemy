@@ -35,7 +35,7 @@ Este projeto foi desenvolvido como um exercício de CRUD com SQLAlchemy e possui
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/sistema-autenticacao.git
+   git clone https://github.com/tondevpy/sistema-autenticacao.git
    cd sistema-autenticacao
     ```
 
